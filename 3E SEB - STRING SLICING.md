@@ -23,8 +23,14 @@ To write a Python function that accepts a string and forms a new string by rever
 ### PROGRAM
 
 ```
+def splitstring(a):
+    x = a.split('@')
+    print(x)
+
 ```
 
 ### OUTPUT
+<img width="928" height="242" alt="image" src="https://github.com/user-attachments/assets/e300908c-558c-4de5-836c-d86b75720656" />
 
 ### RESULT
+Thus the program that splits an email ID string into two parts using the "@" symbol has been implemented and executed successfully.
