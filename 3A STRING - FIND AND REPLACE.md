@@ -10,6 +10,7 @@ To write a Python function that accepts a string as input and joins all its char
 
 ### ALGORITHM
 1.Start the program.
+
 2.Define a function named joinstring(s) that takes a string s as its parameter. 
 3.Join each character of the string s using the hyphen delimiter '-' using the '-'.join(s) method.   4.Print (or return) the newly joined string s1.  
 5.Call the function with test string inputs (e.g., "Hustle", "Python", "work hard"). 
