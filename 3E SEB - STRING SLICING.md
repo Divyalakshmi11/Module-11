@@ -23,14 +23,16 @@ To write a Python function that accepts a string and forms a new string by rever
 ### PROGRAM
 
 ```
-def splitstring(a):
-    x = a.split('@')
-    print(x)
+def slice(str1):
+    text=str1[2:10:2]
+    print(f"The sliced string is '{text}'")
+str1=""
 
 ```
 
 ### OUTPUT
-<img width="928" height="242" alt="image" src="https://github.com/user-attachments/assets/e300908c-558c-4de5-836c-d86b75720656" />
+<img width="1040" height="288" alt="image" src="https://github.com/user-attachments/assets/5b475e3f-6e65-42e3-9a2e-2b9f4010a689" />
+
 
 ### RESULT
-Thus the program that splits an email ID string into two parts using the "@" symbol has been implemented and executed successfully.
+Thus the python program to create a python function that accepts the string and prints every second item between 2 to 10. and then prints the new string has been implemented and executed successfully.
