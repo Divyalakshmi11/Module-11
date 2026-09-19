@@ -1,22 +1,19 @@
 # Exp.No:3a
-## STRING - FIND AND REPLACE
+## STRING - ACCEPT A STRING AND JOIN 
 
 ---
 
 ### AIM  
-To write a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
+To write a Python function that accepts a string as input and joins all its characters using a hyphen (-) as a delimiter.
 
 ---
 
 ### ALGORITHM
-
-1. Begin the program.  
-2. Input the original string `str1` and the word to be replaced `replace_str`.  
-3. Ask the user to input the new replacement word `str2`.  
-4. Use the `replace()` method in Python to replace all occurrences of `replace_str` in `str1` with `str2`.  
-5. Store the modified string in `str3`.  
-6. Display the original string (`str1`) and the modified string (`str3`).  
-7. Terminate the program.
+1.Start the program.
+2.Define a function named joinstring(s) that takes a string s as its parameter. 
+3.Join each character of the string s using the hyphen delimiter '-' using the '-'.join(s) method.   4.Print (or return) the newly joined string s1.  
+5.Call the function with test string inputs (e.g., "Hustle", "Python", "work hard"). 
+6.Stop the program.
 
 ---
 
