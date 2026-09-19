@@ -18,6 +18,7 @@ To write a Python function that accepts a string as input and joins all its char
 4.Print (or return) the newly joined string s1.  
 
 5.Call the function with test string inputs (e.g., "Hustle", "Python", "work hard"). 
+
 6.Stop the program.
 
 ---
