@@ -23,6 +23,8 @@ To write a Python function that accepts a string and forms a new string by rever
 ### PROGRAM
 
 ```
+Name:DivyaLakshmi S
+#Regno:212223020007
 def slice(str1):
     text=str1[2:10:2]
     print(f"The sliced string is '{text}'")
