@@ -26,7 +26,8 @@ To write a Python function that accepts a string as input and joins all its char
 ### PROGRAM
 
 ```
-
+#Name : DivyaLakshmi S
+#Regno : 212223020007
 def joinstring(s):
     s1 = '-'.join(s)
     print(s1)
